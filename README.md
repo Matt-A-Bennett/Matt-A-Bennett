@@ -1,7 +1,3 @@
 I earned my PhD in cognitive neuroscience at the University of Glasgow and I currently work as a postdoc at UCLouvain, Belgium. I work with fmri data and neural networks. I mainly use python, matlab and R programming languages. I favour linux machines, and working in the terminal with Vim as my editor of choice.
 
-[View my website](https://matt-a-bennett.github.io)
-
-[View my LinkedIn profile](https://www.linkedin.com/in/matt-bennett-152590107)
-
-[View my CV](https://matt-a-bennett.github.io/cv_2page.pdf)
+----| [View my website](https://matt-a-bennett.github.io) |----| [View my LinkedIn profile](https://www.linkedin.com/in/matt-bennett-152590107) |----| [View my CV](https://matt-a-bennett.github.io/cv_2page.pdf) |----
